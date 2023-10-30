@@ -57,12 +57,3 @@ If you have improvements, suggestions, or find issues with the simulation files,
 2. Making your changes or improvements.
 3. Creating a pull request with a detailed explanation of your contributions.
 
-Your contributions are welcome and will help improve this project for the community.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the circuit for your personal or educational purposes, but please attribute the original design if shared or distributed.
-
----
-
-We hope that this power supply simulation using LTspice is helpful for your electronic projects. If you have any questions, concerns, or suggestions, please don't hesitate to reach out or contribute to this repository.
