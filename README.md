@@ -11,8 +11,7 @@ This repository contains the LTspice simulation files for a linear adjustable po
 - [LTspice Simulation Files](#ltspice-simulation-files)
 - [Circuit Diagram](#circuit-diagram)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
